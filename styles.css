@@ -213,6 +213,13 @@ a, img {
 	position: relative;
 }
 
+#sociallinks {
+	float: left;
+	width: 325px;
+	height: 100%;
+	background: url(images/footer.svg);
+}
+
 #contenttitle {
 	font-family: Arial Black, Gadget, sans-serif;
 	color: #000;
@@ -598,6 +605,11 @@ a, img {
 .navEnabled {
 	padding: 25px;
 	padding-top: 75px;
+}
+
+.socialitem {
+	width: 170px;
+	margin-left: -45px;
 }
 /* Programing Slide thingy */
 .panel
