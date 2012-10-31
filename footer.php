@@ -10,6 +10,10 @@
 <div id="mobilecontent">
 <?php include('mobilefooter.php'); ?>
 </div>
+</div>
+</div>
+
+<div class="newnav" id="footernav"></div>
 
 <?php echo $footerstuff; 
 include('analytics.php'); ?>

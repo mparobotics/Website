@@ -40,7 +40,7 @@ if (isset($desc)) {
 
 <body onLoad="load();">
 
-<div id="newnav">
+<div class="newnav" id="headnav">
 <a href="/" class="newnavitem" style="border-left: 0px;">Home</a>
 <a href="/Team" class="newnavitem">Team 3926</a>
 <a href="/Robot" class="newnavitem">The Robot</a>
@@ -51,6 +51,7 @@ if (isset($desc)) {
 <a href="mailto:robotics@moundsparkacademy.org" class="newnavitem">Contact Us</a>
 <a href="/Search" class="newnavitem" style="border-right: 0px;">Search</a>
 </div>
+
 <div id="website">
 <div id="nav">
 <a href="/"><img src="/images/logo1-4.svg" alt="logo" id="logo"></a>
