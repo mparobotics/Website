@@ -76,6 +76,20 @@ function Timer (interval, command) {
 ///Slideshow Code///
 ////////////////////
 
+function Slideshow (timer, frame, buttons, buttonId) {
+    this.buttons = buttons;
+    this.buttonGroup = buttonId;
+    this.frame = frame;
+    this.files = slideshowPics;
+    this.length = this.files.length;
+    this.timer = timer;
+    this.slide = function() {
+        //Fade the slide
+        alert("Slide");
+        setTimeout(this.timer+".rearm()",1);
+    };
+}
+
 function slideshow() {
 	TimeToFade = 500.0;
 	slideshowTimeout = 4000;
