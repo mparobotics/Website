@@ -58,6 +58,20 @@ document.getElementById("videoframe").style.display = "block";
 //document.getElementById("morganpromo").play();
 }
 
+//Timer Code
+function Timer (interval, command) {
+    this.interval = interval;
+    
+    this.fire = function() {
+        //Function to call
+        setTimeout(command,this.interval);
+    };
+    this.rearm = function() {
+        //Function to call
+        this.fire();
+    };
+}
+
 ////////////////////
 ///Slideshow Code///
 ////////////////////
