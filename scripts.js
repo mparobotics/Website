@@ -1,12 +1,13 @@
 // JavaScript Document
 
 var TimeToFade = 500.0;
-var slideshowPics = new Array("/images/Slideshow/slideshow1.png","/images/Slideshow/slideshow2.png","/images/Slideshow/slideshow3.png","/images/Slideshow/slideshow4.png","/images/Slideshow/slideshow5.png");
+var navSlideshowPics = new Array("/images/Slideshow/slideshow1.png","/images/Slideshow/slideshow2.png","/images/Slideshow/slideshow3.png","/images/Slideshow/slideshow4.png","/images/Slideshow/slideshow5.png");
+var footerSlideshowPics = new Array("/images/Slideshow/slideshow1.png","/images/Slideshow/slideshow2.png","/images/Slideshow/slideshow3.png","/images/Slideshow/slideshow4.png","/images/Slideshow/slideshow5.png");
 
-var navTimer = new Timer(5000, "navSlideshow.slide()");
+var navTimer = new Timer(4000, "navSlideshow.slide()");
 var footerTimer = new Timer(5000, "footerSlideshow.slide()");
-var navSlideshow = new Slideshow("navTimer", "headerimg1", slideshowPics, false, "");
-var footerSlideshow = new Slideshow("footerTimer", "footer", slideshowPics, false, "");
+var navSlideshow = new Slideshow("navTimer", "headerimg1", navSlideshowPics, false, "");
+var footerSlideshow = new Slideshow("footerTimer", "footer", footerSlideshowPics, false, "");
 
 
 function load() {
