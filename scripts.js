@@ -17,10 +17,13 @@ var command = "";
 var time = 0;
 arraySize = arraySize-1;
 
+var navTimer = new Timer(5000, "navSlideshow.slide()");
+var navSlideshow = new Slideshow("navTimer", "headerimg1", slideshowPics, false, "");
+
 
 function load() {
 	if (true) {
-		slideshow();
+		navTimer.fire();
 	}
 	articleSelect('Join the MPArors at our <i>FIRST</i> competition','/images/Regional.png','/Competition','article1');
 }
@@ -76,46 +79,31 @@ function Timer (interval, command) {
 ///Slideshow Code///
 ////////////////////
 
-function Slideshow (timer, frame, buttons, buttonId) {
+function Slideshow (timer, frame, files, buttons, buttonId) {
+    this.frame = frame;
+    this.files = files;
+    this.totalSlides = this.files.length-1;
+    
+    this.timer = timer;
+    this.currentSlide = 0;
+    
     this.buttons = buttons;
     this.buttonGroup = buttonId;
-    this.frame = frame;
-    this.files = slideshowPics;
-    this.length = this.files.length;
-    this.timer = timer;
+    
     this.slide = function() {
         //Fade the slide
-        alert("Slide");
+        this.currentSlide++;
+        if (this.currentSlide > this.totalSlides) {
+        	this.currentSlide = 0;
+        }
+        //console.log(this.currentSlide);
         setTimeout(this.timer+".rearm()",1);
+        command = "document.getElementById('"+this.frame+"').style.background = 'url("+this.files[this.currentSlide]+")'";
+        commandTwo = "fade('"+this.frame+"')";
+        fade(this.frame);
+        setTimeout(command,500);
+        setTimeout(commandTwo,500);
     };
-}
-
-function slideshow() {
-	TimeToFade = 500.0;
-	slideshowTimeout = 4000;
-	counter = arraySize;
-	while (counter > -1) {
-		time = counter*slideshowTimeout;
-		timeout = time-TimeToFade;
-		timein = time; 
-		command = "document.getElementById('headerimg1').style.background = 'url("+slideshowPics[counter]+")'";
-		//alert(command);
-		delay("fade('headerimg1')",timeout);
-		delay(command,time);
-		delay("fade('headerimg1')",timein);
-		counter = counter-1;
-		delay("slideshowLoop()",time);
-	}
-}
-function slideshowLoop() {
-	ticker = ticker+1;
-	//alert("YES");
-	if (ticker == arraySize+1) {
-		delay("fade('headerimg1')",slideshowTimeout-TimeToFade);
-		delay('slideshow()', slideshowTimeout);
-		delay("fade('headerimg1')",slideshowTimeout);
-		ticker = 0;
-	}
 }
 
 /////////////////
