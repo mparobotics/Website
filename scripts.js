@@ -1,21 +1,7 @@
 // JavaScript Document
 
 var TimeToFade = 500.0;
-var slideshowTimeout = 4000;
-var tempsizeX;
-var tempsizeY;
-var xop;
-var yop;
-var restartTimeout;
-var timein;
-var timeout;
-var ticker = 0;
 var slideshowPics = new Array("/images/Slideshow/slideshow1.png","/images/Slideshow/slideshow2.png","/images/Slideshow/slideshow3.png","/images/Slideshow/slideshow4.png","/images/Slideshow/slideshow5.png");
-var arraySize = 5;
-var counter = -1;
-var command = "";
-var time = 0;
-arraySize = arraySize-1;
 
 var navTimer = new Timer(5000, "navSlideshow.slide()");
 var footerTimer = new Timer(5000, "footerSlideshow.slide()");
@@ -33,35 +19,6 @@ function load() {
 
 function redirect(input) {
 	window.location = input;
-}
-
-////////////////
-//Big Box Code//
-////////////////
-
-function enlarge(inputWidth, inputHeight) {
-/*
-if (box.style.width != "666px") {
-	box.style.display = "block";
-	xop = 1000/inputWidth;
-	yop = 1000/inputHeight;
-	videoframe.style.display = "none";
-	for(i=0; i<1000; i++) {
-		tempsizeY = i/yop;
-		tempsizeX = i/xop;
-		delay('box.style.width = "'+tempsizeX+'px"', i);
-		delay('box.style.height = "'+tempsizeY+'px"', i);
-	}
-	delay('videoframe.style.display = "block";',1000);
-	video.src = "";
-	video.src = "http://www.youtube.com/embed/i1QyM9WTF18";
-}
-*/
-document.getElementById("box").style.display = "block";
-document.getElementById("box").style.width = "670px";
-document.getElementById("box").style.height = "425px";
-document.getElementById("videoframe").style.display = "block";
-//document.getElementById("morganpromo").play();
 }
 
 //Timer Code
@@ -107,42 +64,6 @@ function Slideshow (timer, frame, files, buttons, buttonId) {
         setTimeout(command,500);
         setTimeout(commandTwo,500);
     };
-}
-
-/////////////////
-//Content Slide//
-/////////////////
-
-function nextSlide() {
-	TimeToFade = 500;
-	fade('slide1');
-	fade('slide2');
-	fade('leftArrow');
-	fade('rightArrow');
-	delay('document.getElementById("slide1").style.display = "none"', TimeToFade);
-	delay('document.getElementById("slide2").style.display = "block"', TimeToFade);
-	delay('document.getElementById("leftArrow").style.display = "block"', TimeToFade);
-	delay('document.getElementById("rightArrow").style.display = "none"', TimeToFade);
-	delay('fade("slide2")', TimeToFade+300);
-	delay('fade("slide1")', TimeToFade+300);
-	delay('fade("rightArrow")', TimeToFade+300);
-	delay('fade("leftArrow")', TimeToFade+300);
-}
-
-function previousSlide() {
-	TimeToFade = 500;
-	fade('slide1');
-	fade('slide2');
-	fade('leftArrow');
-	fade('rightArrow');
-	delay('document.getElementById("slide1").style.display = "block"', TimeToFade);
-	delay('document.getElementById("slide2").style.display = "none"', TimeToFade);
-	delay('document.getElementById("leftArrow").style.display = "none"', TimeToFade);
-	delay('document.getElementById("rightArrow").style.display = "block"', TimeToFade);
-	delay('fade("slide2")', TimeToFade+300);
-	delay('fade("slide1")', TimeToFade+300);
-	delay('fade("rightArrow")', TimeToFade+300);
-	delay('fade("leftArrow")', TimeToFade+300);
 }
 
 ////////////////////
