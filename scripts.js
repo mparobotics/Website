@@ -18,12 +18,15 @@ var time = 0;
 arraySize = arraySize-1;
 
 var navTimer = new Timer(5000, "navSlideshow.slide()");
+var footerTimer = new Timer(5000, "footerSlideshow.slide()");
 var navSlideshow = new Slideshow("navTimer", "headerimg1", slideshowPics, false, "");
+var footerSlideshow = new Slideshow("footerTimer", "footer", slideshowPics, false, "");
 
 
 function load() {
 	if (true) {
 		navTimer.fire();
+		footerTimer.fire();
 	}
 	articleSelect('Join the MPArors at our <i>FIRST</i> competition','/images/Regional.png','/Competition','article1');
 }

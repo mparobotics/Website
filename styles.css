@@ -207,20 +207,22 @@ a, img {
 
 #footer {
 	width: 100%;
-	height: 210px;
+	height: 213px;
 	margin-top: -5px;
 	border-top: 3px solid white;
 	background: #002D74;
 	color: #FFF;
-	z-index: 99;
+	z-index: 1;
 	position: relative;
 }
 
 #sociallinks {
 	float: left;
 	width: 325px;
-	height: 100%;
+	height: 211px;
 	background: url(images/footer.svg);
+	position: relative;
+	z-index: 2;
 }
 
 #contenttitle {
