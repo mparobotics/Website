@@ -635,6 +635,24 @@ a, img {
 	width: 170px;
 	margin-left: -45px;
 }
+
+.split {
+	width: 900px;
+	height: 75px;
+	margin-left: -25px;
+	margin-top: 50px;
+	background: url('images/split.svg');
+	padding-top: 25px;
+	font-family: Bebas;
+	color: white;
+	font-size: 42pt;
+	padding-left: 10px;
+}
+
+.splittext {
+	margin: 0px;
+}
+
 /* Programing Slide thingy */
 .panel
 {

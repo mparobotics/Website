@@ -36,6 +36,7 @@ Join the MPArors at our <i>FIRST</i> competition
 </div>
 
 <!-- Begin Content Exp -->
+<!--
 <div id="sponsors">
 <h1>MPA Robotics is Powered by:</h1>
 <div id="sponsorswoosh" class="swoosh">
@@ -44,6 +45,11 @@ Join the MPArors at our <i>FIRST</i> competition
 <a href="http://moundsparkacademy.org/currentfamilies/parentsassociation/"><img src="/images/Sponsors/mpapa.png" class="sponsors" id="mpapa" alt="MPA Parents Association" /></a>
 <a href="/Sponsors" id="moresponsors">More Sponsors -></a>
 </div>
+</div>
+-->
+
+<div class="split">
+<p class="splittext">This is a split</p>
 </div>
 
 <div id="abouttheteam">
