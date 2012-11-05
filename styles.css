@@ -497,6 +497,8 @@ a, img {
 	margin-bottom: -75px;
 	z-index: 4;
 	position: relative;
+	font-family: Bebas;
+	font-size: 20px;
 }
 
 .newnavitem {
