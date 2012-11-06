@@ -12,6 +12,7 @@ flush();
 <div class="slidenavinfo">
 <h1>Title</h1>
 <h2>Subtitle</h2>
+<hr />
 <p>Content contentcontent content content content content content content content content content content content content</p>
 </div>
 </div>
