@@ -731,6 +731,13 @@ a, img {
 	background: white;
 }
 
+.interactive {
+	background: #1B75BB;
+	height: 400px;
+	margin: -25px;
+	margin-bottom: -10px;
+}
+
 /* Programing Slide thingy */
 .panel
 {
