@@ -11,9 +11,9 @@ flush();
 <div class="slidenav">
 <div class="slidenavinfo">
 <h1>Title</h1>
-<h2>Subtitle</h2>
-<hr />
-<p>Content contentcontent content content content content content content content content content content content content</p>
+<h2>Put a Subtitle Here</h2>
+<p>Content contentcontent content content content content. contentsjdhfjs ksjdhjfkh ueh fiuhw iueh iuhe . Here is some more content that can be wrapped</p>
+<a href="http://google.com">Learn More</a>
 </div>
 </div>
 
@@ -25,32 +25,32 @@ flush();
 
 <div class="metroitem" style="background:orange;">
 <img src="images/arrow.svg" alt="Arrow" class="metroarrow" />
-<p class="metrodescription">Sponsors</p>
+<p class="metrodescription">Media</p>
 </div>
 
 <div class="metroitem" style="background:red;">
 <img src="images/arrow.svg" alt="Arrow" class="metroarrow" />
-<p class="metrodescription">Sponsors</p>
+<p class="metrodescription">Competitions</p>
 </div>
 
 <div class="metroitem" style="background:purple;">
 <img src="images/arrow.svg" alt="Arrow" class="metroarrow" />
-<p class="metrodescription">Sponsors</p>
+<p class="metrodescription"><i>FIRST</i></p>
 </div>
 
 <div class="metroitem" style="background:green;">
 <img src="images/arrow.svg" alt="Arrow" class="metroarrow" />
-<p class="metrodescription">Sponsors</p>
+<p class="metrodescription">Partners</p>
 </div>
 
 <div class="metroitem" style="background:blue;">
 <img src="images/arrow.svg" alt="Arrow" class="metroarrow" />
-<p class="metrodescription">Sponsors</p>
+<p class="metrodescription">MPAror Merchandise</p>
 </div>
 
 <div class="metroitem" style="background:pink;">
 <img src="images/arrow.svg" alt="Arrow" class="metroarrow" />
-<p class="metrodescription">Sponsors</p>
+<p class="metrodescription">News</p>
 </div>
 
 </div>
