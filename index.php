@@ -23,35 +23,35 @@ flush();
 
 <div class="metronav" style="height: 325px;">
 
-<div class="metroitem" style="background:orange;">
+<a href="/Media" class="metroitem" style="background:orange;">
 <img src="images/arrow.svg" alt="Arrow" class="metroarrow" />
 <p class="metrodescription">Media</p>
-</div>
+</a>
 
-<div class="metroitem" style="background:red;">
+<a href="/Competitions" class="metroitem" style="background:red;">
 <img src="images/arrow.svg" alt="Arrow" class="metroarrow" />
 <p class="metrodescription">Competitions</p>
-</div>
+</a>
 
-<div class="metroitem" style="background:purple;">
+<a href="/FIRST" class="metroitem" style="background:purple;">
 <img src="images/arrow.svg" alt="Arrow" class="metroarrow" />
 <p class="metrodescription"><i>FIRST</i></p>
-</div>
+</a>
 
-<div class="metroitem" style="background:green;">
+<a href="Sponsors" class="metroitem" style="background:green;">
 <img src="images/arrow.svg" alt="Arrow" class="metroarrow" />
 <p class="metrodescription">Partners</p>
-</div>
+</a>
 
-<div class="metroitem" style="background:blue;">
+<a href="store" class="metroitem" style="background:blue;">
 <img src="images/arrow.svg" alt="Arrow" class="metroarrow" />
 <p class="metrodescription">MPAror Merchandise</p>
-</div>
+</a>
 
-<div class="metroitem" style="background:pink;">
+<a href="/News" class="metroitem" style="background:pink;">
 <img src="images/arrow.svg" alt="Arrow" class="metroarrow" />
 <p class="metrodescription">News</p>
-</div>
+</a>
 
 </div>
 
