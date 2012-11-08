@@ -67,6 +67,14 @@ function Slideshow (timer, frame, files, buttons, buttonId) {
     };
 }
 
+
+//Interactive Code
+function interactiveArrow(idPrefix,targetSlide,currentSlide) {
+    document.getElementById(idPrefix+currentSlide).style.display = "none";
+    document.getElementById(idPrefix+targetSlide).style.display = "block";
+}
+
+
 ////////////////////
 //System Functions//
 ////////////////////
