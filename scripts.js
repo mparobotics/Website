@@ -15,7 +15,7 @@ function load() {
 		navTimer.fire();
 		footerTimer.fire();
 	}
-	articleSelect('Join the MPArors at our <i>FIRST</i> competition','/images/Regional.png','/Competition','article1');
+	//articleSelect('Join the MPArors at our <i>FIRST</i> competition','/images/Regional.png','/Competition','article1');
 }
 
 function redirect(input) {
