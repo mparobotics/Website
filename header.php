@@ -30,7 +30,7 @@ if (isset($desc)) {
 <!--[if IE]>
 <link rel="stylesheet" type="text/css" href="ieoverride.css" />
 <![endif]-->
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+<!--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>-->
 <script type="text/javascript" src="/scripts.js"></script>
 <link rel="icon" type="image/png" href="favicon.png">
 <link rel="apple-touch-icon" href="apple-icon.png" />

@@ -413,6 +413,21 @@ a, img {
 
 }
 
+#team1 {
+}
+
+#team2 {
+    display: none;
+}
+
+#team3 {
+    display: none;
+}
+
+#team4 {
+    display: none;
+}
+
 /* Classes */
 /*
 .frontnav {
@@ -736,6 +751,7 @@ a, img {
 	height: 400px;
 	margin: -25px;
 	margin-bottom: -10px;
+    overflow: hidden;
 }
 
 /* Programing Slide thingy */
