@@ -656,7 +656,7 @@ a, img {
 }
 
 .slidenav {
-	background: orange;
+	background: url('images/Articles/Temp.png');
 	height: 330px;
 	margin: -25px;
 }
