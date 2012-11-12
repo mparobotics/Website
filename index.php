@@ -18,39 +18,39 @@ flush();
 </div>
 
 <div class="split">
-<p class="splittext">This is a split</p>
+    <p class="splittext">This is a split</p>
 </div>
 
 <div class="metronav" style="height: 325px;">
 
 <a href="/Media" class="metroitem" style="background:orange;">
-<img src="images/arrow.svg" alt="Arrow" class="metroarrow" />
-<p class="metrodescription">Media</p>
+    <p class="metrodescription">Media</p>
+    <img src="images/arrow.svg" alt="Arrow" class="metroarrow" />
 </a>
 
 <a href="/Competitions" class="metroitem" style="background:red;">
-<img src="images/arrow.svg" alt="Arrow" class="metroarrow" />
-<p class="metrodescription">Competitions</p>
+    <p class="metrodescription">Competitions</p>
+    <img src="images/arrow.svg" alt="Arrow" class="metroarrow" />
 </a>
 
 <a href="/FIRST" class="metroitem" style="background:purple;">
-<img src="images/arrow.svg" alt="Arrow" class="metroarrow" />
-<p class="metrodescription"><i>FIRST</i></p>
+    <p class="metrodescription"><i>FIRST</i></p>
+    <img src="images/arrow.svg" alt="Arrow" class="metroarrow" />
 </a>
 
 <a href="Sponsors" class="metroitem" style="background:green;">
-<img src="images/arrow.svg" alt="Arrow" class="metroarrow" />
-<p class="metrodescription">Partners</p>
+    <p class="metrodescription">Partners</p>
+    <img src="images/arrow.svg" alt="Arrow" class="metroarrow" />
 </a>
 
 <a href="store" class="metroitem" style="background:blue;">
-<img src="images/arrow.svg" alt="Arrow" class="metroarrow" />
-<p class="metrodescription">MPAror Merchandise</p>
+    <p class="metrodescription">MPAror Merchandise</p>
+    <img src="images/arrow.svg" alt="Arrow" class="metroarrow" />
 </a>
 
 <a href="/News" class="metroitem" style="background:pink;">
-<img src="images/arrow.svg" alt="Arrow" class="metroarrow" />
-<p class="metrodescription">News</p>
+    <p class="metrodescription">News</p>
+    <img src="images/arrow.svg" alt="Arrow" class="metroarrow" />
 </a>
 
 </div>
