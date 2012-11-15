@@ -5,7 +5,7 @@ var navSlideshowPics = new Array("/images/Slideshow/slideshow1.png","/images/Sli
 var footerSlideshowPics = new Array("/images/Slideshow/slideshow1.png","/images/Slideshow/slideshow2.png","/images/Slideshow/slideshow3.png","/images/Slideshow/slideshow4.png","/images/Slideshow/slideshow5.png");
 
 var navTimer = new Timer(4000, "navSlideshow.slide()");
-var footerTimer = new Timer(5000, "footerSlideshow.slide()");
+var footerTimer = new Timer(10000, "footerSlideshow.slide()");
 var navSlideshow = new Slideshow("navTimer", "headerimg1", navSlideshowPics, false, "");
 var footerSlideshow = new Slideshow("footerTimer", "footer", footerSlideshowPics, false, "");
 
@@ -13,7 +13,7 @@ var footerSlideshow = new Slideshow("footerTimer", "footer", footerSlideshowPics
 function load() {
 	if (true) {
 		navTimer.fire();
-		footerTimer.fire();
+		//footerTimer.fire();
 	}
 	//articleSelect('Join the MPArors at our <i>FIRST</i> competition','/images/Regional.png','/Competition','article1');
 }
