@@ -12,26 +12,26 @@ flush();
 	
 <div id="simages">
 <div id="sponsor1">
-<a href="http://www.jcpenney.com" id="sjcp"><img style="width:100%;" src="/images/jcpenney.png" alt="jcpenney Logo"></a>
+<a href="http://www.jcpenney.com" id="sjcp"><img style="width:100%;" src="/images/Sponsors/jcpenney.png" alt="jcpenney Logo"></a>
 
-<a href="http://www.nasa.gov" id="snasa"><img style="width:100%;" src="/images/NASA_logo.png" alt="NASA Logo"></a>
+<a href="http://www.nasa.gov" id="snasa"><img style="width:100%;" src="/images/Sponsors/NASA_logo.png" alt="NASA Logo"></a>
 </div>
 
 <div id="sponsor2">
 <div id="saet">
-<a href="http://www.aetrium.com" style="padding:8px;display:block;"><img src="/images/Aetrium-Logo.png" alt="Aetrium Logo"></a><br />With Thanks to the Levesque Family<br />
+<a href="http://www.aetrium.com" style="padding:8px;display:block;"><img src="/images/Sponsors/Aetrium-Logo.png" alt="Aetrium Logo"></a><br />With Thanks to the Levesque Family<br />
 </div>
 <div id="ssmc">
-<a href="http://www.specialtymfg.com/" style="padding:10px;display:block;"><img src="/images/SMC-logo.gif" alt="Specialty Manufacturing Logo"></a><br />With Thanks to Daniel and Heidi McKeown, Jon Tomaszewski<br />
+<a href="http://www.specialtymfg.com/" style="padding:10px;display:block;"><img src="/images/Sponsors/SMC-logo.gif" alt="Specialty Manufacturing Logo"></a><br />With Thanks to Daniel and Heidi McKeown, Jon Tomaszewski<br />
 </div>
 </div>
 
 <div id="sponsor3">
 <div id="sreell">
-<a href="http://www.reell.com" style="padding:10px;display:block;"><img src="/images/REELL-logo.jpg" alt="REELL Manufacturing Logo"></a>
+<a href="http://www.reell.com" style="padding:10px;display:block;"><img src="/images/Sponsors/REELL-logo.jpg" alt="REELL Manufacturing Logo"></a>
 </div>
 <div id="smpapa">
-<a href="http://www.moundsparkacademy.org/currentfamilies/parentsassociation/" style="padding:10px;display:block;"><img src="/images/mpapa-logo.png" alt="Mounds Park Academy Parents Association logo"></a>
+<a href="http://www.moundsparkacademy.org/currentfamilies/parentsassociation/" style="padding:10px;display:block;"><img src="/images/Sponsors/mpapa-logo.png" alt="Mounds Park Academy Parents Association logo"></a>
 </div></div>
 
 <div id="sponsor4">

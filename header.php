@@ -54,7 +54,7 @@ if (isset($desc)) {
 
 <div id="website">
 <div id="nav">
-<a href="/"><img src="/images/logo1-4.svg" alt="logo" id="logo"></a>
+<a href="/"><img src="/images/MPAror/logoNav.svg" alt="logo" id="logo"></a>
 <div id="headerimg1" class="headerimg" style="width: 100%; height: 130px; background: url('/images/Slideshow/slideshow1.png'); z-index: 0; position: relative;"></div>
 
 </div>
