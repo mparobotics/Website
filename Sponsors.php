@@ -24,11 +24,11 @@ flush();
             <p class="metrodescription">Atreium</p>
         </a>
         
-        <a href="store" class="metroitem" style="background:blue;">
+        <a href="http://www.specialtymfg.com/" class="metroitem" style="background: url('images/Sponsors/Metro/smc.svg');">
             <p class="metrodescription">SMC</p>
         </a>
         
-        <a href="/News" class="metroitem" style="background:pink;">
+        <a href="http://undergroundshirts.com/" class="metroitem" style="background: url('images/Sponsors/Metro/ugp.svg');">
             <p class="metrodescription">Underground Printing</p>
         </a>
     
