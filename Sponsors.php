@@ -6,7 +6,7 @@ flush();
 ?>
 
 <div id="content">
-    <div class="metronav" style="height: 325px; margin-top: 60px;">
+    <div class="metronav" style="height: 500px; margin-top: 60px;">
 
         <a href="http://www.jcpenney.com/dotcom/index.jsp" class="metroitem" style="background: url('images/Sponsors/Metro/jcpenny.svg');">
             <p class="metrodescription">JCPenney</p>
@@ -30,6 +30,14 @@ flush();
         
         <a href="http://undergroundshirts.com/" class="metroitem" style="background: url('images/Sponsors/Metro/ugp.svg');">
             <p class="metrodescription">Underground Printing</p>
+        </a>
+        
+        <a href="http://undergroundshirts.com/" class="metroitem" style="background:green;">
+            <p class="metrodescription">MPA Parents Association</p>
+        </a>
+        
+        <a href="http://undergroundshirts.com/" class="metroitem" style="background:green;">
+            <p class="metrodescription">Home Depot</p>
         </a>
     
     </div>
