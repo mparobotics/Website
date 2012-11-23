@@ -400,6 +400,23 @@ a, img {
     display: none;
 }
 
+#robotImage {
+    width: 350px;
+    height: 500px;
+    background: black;
+    margin: 25px;
+    float: left;
+}
+
+#robotContent {
+    width: 450px;
+    height: 500px;
+    background: gray;
+    float: left;
+    margin: 25px;
+    border-radius: 5px;
+}
+
 /* Classes */
 /*
 .frontnav {
@@ -718,6 +735,13 @@ a, img {
 	margin-bottom: -10px;
     overflow: hidden;
     color: white;
+}
+
+.selectbar {
+    margin-top: 55px;
+    background: #333;
+    color: white;
+    padding-bottom: 1px;
 }
 
 /* Programing Slide thingy */
