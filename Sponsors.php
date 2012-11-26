@@ -2,6 +2,7 @@
 $headerstuff = '<style type="text/css">a{ color:#09F;}</style>';
 $pageTitle = "MPA Robotics - Sponsors";
 include('header.php');
+flush();
 ?>
 
 <div id="content">
