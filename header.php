@@ -58,3 +58,4 @@ if (isset($desc)) {
 <div id="headerimg1" class="headerimg" style="width: 100%; height: 130px; background: url('/images/Slideshow/slideshow1.png'); z-index: 0; position: relative;"></div>
 
 </div>
+<?php flush(); ?>

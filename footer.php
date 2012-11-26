@@ -1,3 +1,4 @@
+<?php flush(); ?>
 <div id="sociallinks">
 <a href="https://twitter.com/mparobotics"><img src="/images/Elements/twitter.svg" alt="Find us on Twitter!" class="socialitem" style=" margin-top: 13px; " /></a><br />
 <a href="https://facebook.com/team3926.org"><img src="/images/Elements/facebook.svg" alt="Find us on Facebook!" class="socialitem" /></a><br />
