@@ -33,7 +33,7 @@ flush();
         <img src="images/MPAror/arrow.svg" alt="Arrow" class="metroarrow" />
     </a>
     
-    <a href="/FIRST" class="metroitem" style="background-image:url('/images/FIRST/first.png'); background-size:100px 100px;">
+    <a href="/FIRST" class="metroitem" style="background-image:url('/images/FIRST/first.png');">
         <p class="metrodescription"><i>FIRST</i></p>
         <img src="images/MPAror/arrow.svg" alt="Arrow" class="metroarrow" />
     </a>
