@@ -18,7 +18,7 @@ flush();
 </div>
 
 <div class="split">
-    <p class="splittext">This is a split</p>
+    <!--<p class="splittext">This is a split</p>-->
 </div>
 
 <div class="metronav" style="height: 325px;">
@@ -33,7 +33,7 @@ flush();
         <img src="images/MPAror/arrow.svg" alt="Arrow" class="metroarrow" />
     </a>
     
-    <a href="/FIRST" class="metroitem" style="background:purple;">
+    <a href="/FIRST" class="metroitem" style="background-image:url('/images/FIRST/first.png'); background-size:100px 100px;">
         <p class="metrodescription"><i>FIRST</i></p>
         <img src="images/MPAror/arrow.svg" alt="Arrow" class="metroarrow" />
     </a>
