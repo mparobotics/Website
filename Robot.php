@@ -4,7 +4,7 @@ $pageTitle = "MPA Robotics - The Robot";
 include('header.php');
 ?>
 
-<div id="content" style="height: 600px">
+<div id="content" style="height: 600px; padding: 0px;">
 
     <div class="selectbar">
         <p>Select a year:</p>

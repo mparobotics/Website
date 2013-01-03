@@ -83,7 +83,8 @@ a, img {
 
 #content {
 	text-align: center;
-	padding-bottom: 60px;
+	margin: 55px 0px;
+    padding: 25px;
 }
 
 #mobilecontent {
@@ -624,10 +625,12 @@ a, img {
 	padding-top: 75px;
 }
 
+/*
 .navEnabled {
 	padding: 25px;
 	padding-top: 75px;
 }
+*/
 
 .socialitem {
 	width: 170px;
