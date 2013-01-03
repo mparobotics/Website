@@ -5,7 +5,7 @@ include('header.php');
 ?>
 
 <div id="content">
-    <div class="metronav" style="height: 500px; margin-top: 60px;">
+    <div class="metronav" style="height: 500px;">
 
         <a href="http://www.jcpenney.com/dotcom/index.jsp" class="metroitem" style="background: url('images/Sponsors/Metro/jcpenny.svg');">
             <p class="metrodescription">JCPenney</p>
