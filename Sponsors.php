@@ -19,8 +19,8 @@ include('header.php');
             <p class="metrodescription">Reell</p>
         </a>
         
-        <a href="Sponsors" class="metroitem" style="background:green;">
-            <p class="metrodescription">Atreium</p>
+        <a href="Sponsors" class="metroitem" style="background: url('images/Sponsors/Metro/aetrium.svg');">
+            <p class="metrodescription">Aetrium</p>
         </a>
         
         <a href="http://www.specialtymfg.com/" class="metroitem" style="background: url('images/Sponsors/Metro/smc.svg');">
@@ -31,11 +31,11 @@ include('header.php');
             <p class="metrodescription">Underground Printing</p>
         </a>
         
-        <a href="http://undergroundshirts.com/" class="metroitem" style="background:green;">
+        <a href="http://undergroundshirts.com/" class="metroitem" style="background: url('images/Sponsors/Metro/mpapa.svg');">
             <p class="metrodescription">MPA Parents Association</p>
         </a>
         
-        <a href="http://undergroundshirts.com/" class="metroitem" style="background:green;">
+        <a href="http://undergroundshirts.com/" class="metroitem" style="background: url('images/Sponsors/Metro/homedepot.svg');">
             <p class="metrodescription">Home Depot</p>
         </a>
     
