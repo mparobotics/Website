@@ -738,6 +738,7 @@ a, img {
 	margin-bottom: -10px;
     overflow: hidden;
     color: white;
+    background-size: 100%;
 }
 
 .selectbar {
