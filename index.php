@@ -10,10 +10,10 @@ flush();
 
 <div class="slidenav">
 <div class="slidenavinfo">
-<h1>Title</h1>
-<h2>Put a Subtitle Here</h2>
-<p>Content contentcontent content content content content. contentsjdhfjs ksjdhjfkh ueh fiuhw iueh iuhe . Here is some more content that can be wrapped</p>
-<a href="http://google.com">Learn More</a>
+<h1>Kickoff!</h1>
+<h2>Introducing: Rebound Rumble</h2>
+<p>Rebound rumble is played on a feild that contains 4 baskets on each side in which robots can score basketballs. Teams must also ballance on bridges in the middle of the feild to score points</p>
+<a href="http://google.com">Learn More (Link to blog)</a>
 </div>
 </div>
 

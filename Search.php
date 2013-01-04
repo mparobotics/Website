@@ -36,10 +36,8 @@ flush();
 ?>
 
 <div id="content">
-
-<div id="cse" style="width: 100%; background: white; margin-top: 60px;
-margin-bottom: 20px;">Loading</div>
-
+    <h1>Search Mparor Robotics:</h1>
+    <div id="cse" style="width: 100%; background: white; margin-bottom: 20px;">Loading</div>
 </div>
 <?php 
 $footerstuff = NULL;

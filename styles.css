@@ -48,7 +48,7 @@ body {
 	/*background: #CCD;*/
 	background: url('images/Elements/background.gif');
 	text-align: center;
-	font-family: SiteFont, SiteFontIE;
+	font-family: Helvetica;
 	font-size: 16px;
 	min-width: 950px;
 }
@@ -69,6 +69,7 @@ a, img {
 
 h1 {
     font-family: Bebas;
+    margin: 5px;
 }
 
 /* IDs */
@@ -683,7 +684,7 @@ h1 {
 .slidenavinfo h2 {
 	font-family: Bebas;
 	margin-top: -17px;
-	font-size: 30px;
+	font-size: 28px;
 }
 
 .slidenavinfo p {
@@ -691,7 +692,7 @@ h1 {
 	float: right;
 	text-align: left;
 	margin-top: 25px;
-	margin-right: 20px;
+	margin-right: 28px;
 }
 
 .slidenavinfo a {
