@@ -8,10 +8,10 @@ flush();
 
 <div id="content" class="navDisabled">
 
-<div class="slidenav">
+<div class="slidenav" style="background: url(images/SlideNav/UltimateAscent.svg)">
 <div class="slidenavinfo">
 <h1>Kickoff!</h1>
-<h2>Introducing: Rebound Rumble</h2>
+<h2>Introducing: Ultimate Ascent</h2>
 <p>Rebound rumble is played on a feild that contains 4 baskets on each side in which robots can score basketballs. Teams must also ballance on bridges in the middle of the feild to score points</p>
 <a href="http://google.com">Learn More (Link to blog)</a>
 </div>
@@ -28,7 +28,7 @@ flush();
         <img src="images/MPAror/arrowWhite.svg" alt="Arrow" class="metroarrow" />
     </a>
     
-    <a href="Competitions" class="metroitem" style="background:red;">
+    <a href="Competitions" class="metroitem" style="background-image:url('/images/Metro/Competitions.svg');">
         <p class="metrodescription">Competitions</p>
         <img src="images/MPAror/arrow.svg" alt="Arrow" class="metroarrow" />
     </a>
