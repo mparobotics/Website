@@ -199,8 +199,10 @@
 		width: inherit;
 		height: 100%;
 		text-align: center;
-		//padding: 20px;
-		//padding-top: 10px;
+		/*
+            There are no single line comments in CSS
+            padding: 20px;*/
+		/*padding-top: 10px;*/
 	}
 	
 /*Sponsors.php*/
@@ -276,7 +278,9 @@
 	top: 10%;
 	margin-top: 77px;
 	text-align: center;
-	height: -200px;
+	/*
+        The fuck mike?
+        height: -200px;*/
 }
 
 #ssmc {
@@ -322,16 +326,20 @@
 	height: 1030px;
 	background-color: white; 
 	margin-top: -16px; 
-	padding-bottom: 1px
+	padding-bottom: 1px;
 }
 
 #sspecial {
 	width: 100%;
 	height: 50px;
 	background-color: #c7cacd;
-	float: bottom;
+	/* 
+        Float is left, right, auto, none (not bottom)
+        float: bottom;
+        */
 }
-
+/*
 #swooshtitle {
 	float: bottom;
 }
+*/
