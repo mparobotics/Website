@@ -12,12 +12,12 @@ include('header.php');
     </div>
     
     <div id="2012">
-        <div id="robotImage" style="background: url();">
+        <div class="robotImage" style="background: url();">
             <div class="node" onclick="document.getElementById('2012content').innerHTML = 'Slide 1';"></div>
             <div class="node" onclick="document.getElementById('2012content').innerHTML = 'Slide 2';"></div>
         </div>
         
-        <div id="robotContent">
+        <div class="robotContent">
             <div class="contentStatic">
                 <h1>Rebound Rumble</h1>
                 <h2>2012 Robot Name Here</h2>
@@ -30,11 +30,11 @@ include('header.php');
     </div>
     
     <div id="2013" style="display: none;">
-        <div id="robotImage" style="background: url();">
+        <div class="robotImage" style="background: url();">
             <!--<div class="node"></div>-->
         </div>
         
-        <div id="robotContent">
+        <div class="robotContent">
             <div class="contentStatic">
                 <h1>Classified</h1>
                 <h2>Classified</h2>

@@ -7,7 +7,7 @@
 
 @font-face {
   font-family: Bebas;
-  src: url(fonts/BebasNeue.otf);
+  src: url(fonts/BebasNeue.woff) format('woff'), url(fonts/BebasNeue.ttf) format('truetype'), url(fonts/BebasNeue.eot) format('embedded-opentype'), url(fonts/BebasNeue.svg) format('svg');
 }
 
 @font-face {
@@ -406,23 +406,6 @@ h1 {
     display: none;
 }
 
-#robotImage {
-    width: 350px;
-    height: 500px;
-    background: black;
-    margin: 25px;
-    float: left;
-}
-
-#robotContent {
-    width: 450px;
-    height: 500px;
-    background: gray;
-    float: left;
-    margin: 25px;
-    border-radius: 5px;
-}
-
 /* Classes */
 /*
 .frontnav {
@@ -766,6 +749,23 @@ h1 {
     width: 50px;
     height: 50px;
     background-size: 100%;
+}
+
+.robotImage {
+    width: 350px;
+    height: 500px;
+    background: black;
+    margin: 25px;
+    float: left;
+}
+
+.robotContent {
+    width: 450px;
+    height: 500px;
+    background: gray;
+    float: left;
+    margin: 25px;
+    border-radius: 5px;
 }
 
 /* Programing Slide thingy */
