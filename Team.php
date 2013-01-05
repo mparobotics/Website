@@ -7,7 +7,7 @@ include('header.php');
 <div id="content" class="navDisabled">
 
 <div class="interactive" id="team1">
-    <img src="images/MPAror/logo.svg" class="logo" alt="Logo" style="width: 500px;" />
+    <img src="images/MPAror/logoTransparent.svg" class="logo" alt="Logo" style="width: 500px;" />
     <a href="#" onclick="interactiveArrow('team',2,1);"><img src="images/MPAror/arrowwhite.svg" id="team1arrow" alt="Next Slide" style="float: right; width: 200px;" /></a>
 </div>
     

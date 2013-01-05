@@ -23,32 +23,32 @@ flush();
 
 <div class="metronav" style="height: 325px;">
 
-    <a href="/Media" class="metroitem" style="background:orange;">
+    <a href="Media" class="metroitem" style="background-image:url('/images/Metro/Media.png');">
         <p class="metrodescription">Media</p>
-        <img src="images/MPAror/arrow.svg" alt="Arrow" class="metroarrow" />
+        <img src="images/MPAror/arrowWhite.svg" alt="Arrow" class="metroarrow" />
     </a>
     
-    <a href="/Competitions" class="metroitem" style="background:red;">
+    <a href="Competitions" class="metroitem" style="background:red;">
         <p class="metrodescription">Competitions</p>
         <img src="images/MPAror/arrow.svg" alt="Arrow" class="metroarrow" />
     </a>
     
-    <a href="/FIRST" class="metroitem" style="background-image:url('/images/Metro/FIRST.svg');">
+    <a href="FIRST" class="metroitem" style="background-image:url('/images/Metro/FIRST.svg');">
         <p class="metrodescription"><i>FIRST</i></p>
         <img src="images/MPAror/arrow.svg" alt="Arrow" class="metroarrow" />
     </a>
     
-    <a href="Sponsors" class="metroitem" style="background:green;">
+    <a href="Sponsors" class="metroitem" style="background-image:url('/images/Sponsors/Metro/you.svg');">
         <p class="metrodescription">Partners</p>
-        <img src="images/MPAror/arrow.svg" alt="Arrow" class="metroarrow" />
+        <img src="images/MPAror/arrowWhite.svg" alt="Arrow" class="metroarrow" />
     </a>
     
-    <a href="store" class="metroitem" style="background:blue;">
-        <p class="metrodescription">MPAror Merchandise</p>
-        <img src="images/MPAror/arrow.svg" alt="Arrow" class="metroarrow" />
+    <a href="Team" class="metroitem" style="background-image:url('/images/Metro/MPAror.svg');">
+        <p class="metrodescription">About The MPArors</p>
+        <img src="images/MPAror/arrowWhite.svg" alt="Arrow" class="metroarrow" />
     </a>
     
-    <a href="/News" class="metroitem" style="background-image:url('/images/Metro/News.svg');">
+    <a href="News" class="metroitem" style="background-image:url('/images/Metro/News.svg');">
         <p class="metrodescription">News</p>
         <img src="images/MPAror/arrow.svg" alt="Arrow" class="metroarrow" />
     </a>
