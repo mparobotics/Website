@@ -19,7 +19,7 @@ include('header.php');
             <p class="metrodescription">Reell</p>
         </a>
         
-        <a href="Sponsors" class="metroitem" style="background: url('images/Sponsors/Metro/aetrium.svg');">
+        <a href="http://www.aetrium.com/" class="metroitem" style="background: url('images/Sponsors/Metro/aetrium.png');">
             <p class="metrodescription">Aetrium</p>
         </a>
         
@@ -31,11 +31,11 @@ include('header.php');
             <p class="metrodescription">Underground Printing</p>
         </a>
         
-        <a href="http://undergroundshirts.com/" class="metroitem" style="background: url('images/Sponsors/Metro/mpapa.svg');">
+        <a href="http://www.moundsparkacademy.org/" class="metroitem" style="background: url('images/Sponsors/Metro/mpapa.svg');">
             <p class="metrodescription">MPA Parents Association</p>
         </a>
         
-        <a href="http://undergroundshirts.com/" class="metroitem" style="background: url('images/Sponsors/Metro/homedepot.svg');">
+        <a href="http://www.homedepot.com/" class="metroitem" style="background: url('images/Sponsors/Metro/homedepot.svg');">
             <p class="metrodescription">Home Depot</p>
         </a>
         
