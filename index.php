@@ -48,7 +48,7 @@ flush();
         <img src="images/MPAror/arrow.svg" alt="Arrow" class="metroarrow" />
     </a>
     
-    <a href="/News" class="metroitem" style="background:pink;">
+    <a href="/News" class="metroitem" style="background-image:url('/images/Metro/News.svg');">
         <p class="metrodescription">News</p>
         <img src="images/MPAror/arrow.svg" alt="Arrow" class="metroarrow" />
     </a>
