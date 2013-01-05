@@ -12,8 +12,8 @@ flush();
 <div class="slidenavinfo">
 <h1>Kickoff!</h1>
 <h2>Introducing: Ultimate Ascent</h2>
-<p>Rebound rumble is played on a feild that contains 4 baskets on each side in which robots can score basketballs. Teams must also ballance on bridges in the middle of the feild to score points</p>
-<a href="http://google.com">Learn More (Link to blog)</a>
+<p>Ultimate Ascent is a game that is played using hard plastic Frisbees. Teams shoot them into goals to score points. In addition, robots can climb one of two pyramids to score bonus points.</p>
+<a href="Media">Watch The Game Animation</a>
 </div>
 </div>
 
