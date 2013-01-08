@@ -8,20 +8,22 @@ include('header.php');
 
     <div class="selectbar">
         <p>Select a year:</p>
-        <p><a href="#" onClick="document.getElementById('2013').style.display = 'none'; document.getElementById('2012').style.display = 'block';">2012</a>|<a href="#" onClick="document.getElementById('2012').style.display = 'none'; document.getElementById('2013').style.display = 'block';">2013</a></p>
+        <p><a href="#" onClick="document.getElementById('2013').style.display = 'none'; document.getElementById('2012').style.display = 'block';">2012</a> | <a href="#" onClick="document.getElementById('2012').style.display = 'none'; document.getElementById('2013').style.display = 'block';">2013</a></p>
     </div>
     
     <div id="2012">
-        <div class="robotImage" style="background: url();">
+        <div class="robotImage" style="background: url(images/Robot/ComingSoon.svg);">
+            <!--
             <div class="node" onclick="document.getElementById('2012content').innerHTML = 'Slide 1';"></div>
             <div class="node" onclick="document.getElementById('2012content').innerHTML = 'Slide 2';"></div>
+            -->
         </div>
         
         <div class="robotContent">
             <div class="contentStatic">
                 <h1>Rebound Rumble</h1>
-                <h2>2012 Robot Name Here</h2>
-                <p id="2012content">Content</p>
+                <h2>Coming Soon!</h2>
+                <p id="2012content">Coming Soon!</p>
             </div>
             
             <div class="contentStub">
@@ -30,13 +32,13 @@ include('header.php');
     </div>
     
     <div id="2013" style="display: none;">
-        <div class="robotImage" style="background: url();">
+        <div class="robotImage" style="background: url(images/Robot/ComingSoon.svg);">
             <!--<div class="node"></div>-->
         </div>
         
         <div class="robotContent">
             <div class="contentStatic">
-                <h1>Classified</h1>
+                <h1>Ultimate Ascent</h1>
                 <h2>Classified</h2>
                 <p id="2013content">Classified</p>
             </div>
