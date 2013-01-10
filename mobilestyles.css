@@ -10,6 +10,38 @@
 
 @media screen and (max-width: 480px) {
 
+/* For sure used Mobile CSS */
+
+/* Metro Interface Styles */
+.metronav {
+	margin: 15px;
+}
+
+.metronav {
+	/*margin: 5px;*/
+}
+
+.metroitem {
+	float: left;
+	width: 242px;
+	height: 150px;
+	margin: 12px;
+    box-shadow: 0px 2px 5px gray;
+    border-radius: 5px;
+    background-size: 100%;
+}
+
+
+
+
+#headnav {
+	display: none;
+}
+
+
+
+
+/* END OF USED MOBILE CSS */
 	body {
 		min-width: 1%;
 	}
