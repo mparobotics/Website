@@ -25,7 +25,7 @@ flush();
 
     <a href="Media" class="metroitem" style="background-image:url('/images/Metro/Media.png');">
         <p class="metrodescription">Media</p>
-        <img src="images/MPAror/arrowWhite.svg" alt="Arrow" class="metroarrow" />
+        <img src="images/MPAror/arrowwhite.svg" alt="Arrow" class="metroarrow" />
     </a>
     
     <a href="Competitions" class="metroitem" style="background-image:url('/images/Metro/Competitions.svg');">
@@ -40,12 +40,12 @@ flush();
     
     <a href="Sponsors" class="metroitem" style="background-image:url('/images/Sponsors/Metro/you.svg');">
         <p class="metrodescription">Partners</p>
-        <img src="images/MPAror/arrowWhite.svg" alt="Arrow" class="metroarrow" />
+        <img src="images/MPAror/arrowwhite.svg" alt="Arrow" class="metroarrow" />
     </a>
     
     <a href="Team" class="metroitem" style="background-image:url('/images/Metro/MPAror.svg');">
         <p class="metrodescription">About The MPArors</p>
-        <img src="images/MPAror/arrowWhite.svg" alt="Arrow" class="metroarrow" />
+        <img src="images/MPAror/arrowwhite.svg" alt="Arrow" class="metroarrow" />
     </a>
     
     <a href="News" class="metroitem" style="background-image:url('/images/Metro/News.svg');">
