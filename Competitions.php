@@ -27,5 +27,3 @@ include('header.php');
 $footerstuff = NULL;
 include('footer.php');
 ?>
-
-Regional: March 28th
