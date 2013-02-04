@@ -92,6 +92,12 @@ h1 {
     padding: 25px;
 }
 
+#media {
+    text-align: center;
+    margin: 55px 0px;
+    padding: 25px;
+}
+
 #mobilecontent {
 	display: none;
 }

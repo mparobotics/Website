@@ -4,7 +4,7 @@ $pageTitle = "MPA Robotics - Media";
 include('header.php');
 ?>
 
-<div id="content" style="padding: 0px;">
+<div id="media" style="padding: 0px;">
     <h1 style="font-size: 400%;">Videos:</h1>
     <h2 style="font-size: 250%; margin: 5px">2013 Game Animation!</h2>
     <iframe width="560" height="315" src="http://www.youtube.com/embed/itHNW2OFr4Y"></iframe>
