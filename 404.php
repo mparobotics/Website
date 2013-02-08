@@ -7,10 +7,13 @@ include('header.php');
 <div id="content">
 <br />
 <h2>Try Again</h2>
+<hr />
 <p>You've tried to access a page that doesn't exist.</p>
 <p>As the site is still under construction, some pages may not yet exist. Please do not panic, and check back soon for updates.</p>
 <p>If you are typing random URLs stop it.</p>
 <p>And yes, in case you were wondering, this is a 404.</p>
+
+
 
 
 <div style="display: none">
