@@ -14,7 +14,8 @@
 
 /* Metro Interface Styles */
 .metronav {
-	margin: 15px;
+	/*margin: 15px;*/
+	margin-left: 1%;
 }
 
 .metronav {
@@ -31,14 +32,42 @@
     background-size: 100%;
 }
 
+#sociallinks {
+	background-color: #757576;
+	width: 100%;
+}
 
-
+.newnav {
+	display: none;
+}
 
 #headnav {
 	display: none;
 }
 
+.socialitem {
+	margin-left: 7px;
+}
 
+.slidenavinfo {
+	background: url('images/Elements/slidenavinfo.svg');
+	color: white;
+	text-align: right;
+	padding: 0px 20px;
+	width: 300px;
+	height: 330px;
+	float: right;
+}
+
+.slidenav {
+	background: url('images/SlideNav/UltimateAscent.svg');
+	height: 330px;
+	margin: -25px;
+}
+
+#player-container {
+	display: none;
+}
 
 
 /* END OF USED MOBILE CSS */
