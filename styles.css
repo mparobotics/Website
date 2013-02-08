@@ -117,19 +117,6 @@ h1 {
 	z-index: 1;
 }
 
-#csbcontainer {
-	margin: auto;
-	height: 125px;
-	width: 765px;
-	position: relative;
-	top: 25px;
-	margin-bottom: 50px;
-}
-
-#slide ul {
-    list-style-type: none;
-}
-
 #box {
 	background-color:#ffffff;
 	border-width:2px;
@@ -649,7 +636,8 @@ h1 {
 }
 
 .slidenav {
-	background: url('images/Articles/Temp.png');
+	/*background: url('images/Articles/Temp.png');*/
+	background: url('images/SlideNav/UltimateAscent.svg');
 	height: 330px;
 	margin: -25px;
 }
@@ -775,3 +763,4 @@ h1 {
     margin: 25px;
     border-radius: 5px;
 }
+
