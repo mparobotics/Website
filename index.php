@@ -55,13 +55,6 @@ flush();
 
 </div>
 
-<!--
-<div id="mobilecontent">
-<br />
-<br />
-<?php include('mobilefooter.php'); ?>
-</div> -->
-
 </div>
 <?php 
 $footerstuff = NULL;
