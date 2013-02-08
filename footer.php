@@ -7,7 +7,6 @@
 </div>
 <div id="footer">
 <div id="mobilecontent">
-<?php include('mobilefooter.php'); ?>
 </div>
 </div>
 </div>
