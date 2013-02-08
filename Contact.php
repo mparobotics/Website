@@ -40,7 +40,7 @@ echo('
 </br>
      
 <div>
-     * Message:<br /><textarea name="message" required="required" rows="10" cols="66" required="required"></textarea>
+     * Message:<br /><textarea name="message" required="required" rows="10" cols="60" required="required"></textarea>
 </div>
      
 <div>
