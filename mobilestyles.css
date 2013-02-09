@@ -40,6 +40,14 @@
 .newnav {
 	display: none;
 }
+/* Media Page */
+#media {
+    text-align: center;
+    margin: 55px 0px;
+    padding: 25px;
+}
+
+/*End of Media Styles */
 
 #headnav {
 	display: none;
