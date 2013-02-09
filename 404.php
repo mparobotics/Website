@@ -4,7 +4,7 @@ $pageTitle = "MPA Robotics - 404";
 include('header.php');
 ?>
 
-<div id="content">
+<div id="error">
 <br />
 <h2>Try Again</h2>
 <hr />
@@ -12,8 +12,8 @@ include('header.php');
 <p>As the site is still under construction, some pages may not yet exist. Please do not panic, and check back soon for updates.</p>
 <p>If you are typing random URLs stop it.</p>
 <p>And yes, in case you were wondering, this is a 404.</p>
-
-
+</br>
+</br>
 
 
 <div style="display: none">
