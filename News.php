@@ -5,7 +5,7 @@ include('header.php');
 ?>
 
 <div id="content" style="padding: 0px;">
-    <iframe src="/wordpress" class="fillFrame">Sorry, your browser does not support iFrame</iframe>
+    <iframe src="http://blogs.dbztech.com/robotics" class="fillFrame">Sorry, your browser does not support iFrame</iframe>
 </div>
 <?php 
 $footerstuff = NULL;
