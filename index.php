@@ -8,7 +8,7 @@ flush();
 
 <div id="content" class="navDisabled">
 
-<div class="slidenav" style="background: url(images/SlideNav/UltimateAscent.svg)">
+<div class="slidenav" style="background: url(images/SlideNav/UltimateAscent.svg)"> 
 <div class="slidenavinfo">
 </br>
 <h1>Simley Invitational</h1>
