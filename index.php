@@ -15,7 +15,7 @@ flush();
 </br>
 <h2>This Years Game: Ultimate Ascent</h2>
 <p>Team 3926 will be participating in the Simley Invitational on February 16 at Simley High School in Inver Grove. We invite any fans, friends and family to come and watch!</p>
-<a href="http://goo.gl/maps/tWR9v">Get Directions to Simley High School</a>
+<a href="https://maps.google.com/maps?q=2920+80St.+East,+Inver+Grove+Heights&hl=en&ll=44.833397,-93.048006&spn=0.001525,0.002401&sll=44.808269,-93.030853&sspn=0.069054,0.153637&t=h&hnear=2920+80th+St+E,+Inver+Grove+Heights,+Dakota,+Minnesota+55076&deg=180&z=19">Get Directions to Simley High School</a>
 </div>
 </div>
 
