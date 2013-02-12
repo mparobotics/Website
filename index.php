@@ -10,10 +10,12 @@ flush();
 
 <div class="slidenav" style="background: url(images/SlideNav/UltimateAscent.svg)">
 <div class="slidenavinfo">
-<h1>Kickoff!</h1>
-<h2>Introducing: Ultimate Ascent</h2>
-<p>Ultimate Ascent is a game that is played using hard plastic Frisbees. Teams shoot them into goals to score points. In addition, robots can climb one of two pyramids to score bonus points.</p>
-<a href="Media">Watch The Game Animation</a>
+</br>
+<h1>Simley Invitational</h1>
+</br>
+<h2>This Years Game: Ultimate Ascent</h2>
+<p>Team 3926 will be participating in the Simley Invitational on February 16 at Simley High School in Inver Grove. We invite any fans, friends and family to come and watch!</p>
+<a href="http://goo.gl/maps/tWR9v">Get Directions to Simley High School</a>
 </div>
 </div>
 
