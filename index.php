@@ -11,11 +11,12 @@ flush();
 <div class="slidenav" style="background: url(images/SlideNav/UltimateAscent.svg)"> 
 <div class="slidenavinfo">
 </br>
-<h1>Simley Invitational</h1>
+<h1>Bag and Tag</h1>
 </br>
-<h2>This Years Game: Ultimate Ascent</h2>
-<p>Team 3926 will be participating in the Simley Invitational on February 16 at Simley High School in Inver Grove. We invite any fans, friends and family to come and watch!</p>
-<a href="https://maps.google.com/maps?q=2920+80St.+East,+Inver+Grove+Heights&hl=en&ll=44.833397,-93.048006&spn=0.001525,0.002401&sll=44.808269,-93.030853&sspn=0.069054,0.153637&t=h&hnear=2920+80th+St+E,+Inver+Grove+Heights,+Dakota,+Minnesota+55076&deg=180&z=19">Get Directions to Simley High School</a>
+<!--<h2>This Years Game: Ultimate Ascent</h2>-->
+</br>
+<p>Tuesday February 19th Team 3926 will be bagging and tagging there robot! What this means is that we can not touch the robot again till we are taking part in the North Star Regional Event.</p>
+<a href="/Competitions">More information about Competition</a>
 </div>
 </div>
 
