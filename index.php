@@ -11,11 +11,11 @@ flush();
 <div class="slidenav" style="background: url(images/SlideNav/UltimateAscent.svg)"> 
 <div class="slidenavinfo">
 </br>
-<h1>North Star Regional</h1>
+<h1>Nationals 2013</h1>
 </br>
-<h2>This Years Game: Ultimate Ascent</h2>
+<h2>This past years game: Ultimate Ascent</h2>
 </br>
-<p>Regional competition is coming up soon! Come support Team 3926 at the North Star Regional, March 28-30th at Mariucci Arena.</p>
+<p>Great job at Nationals Team 3926! For anyone that is interested, pictures are available <a href="team3926.org/Media>here</a></p>
 </br>
 <a href="/Competitions">More information about Competition</a>
 </div>
