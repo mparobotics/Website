@@ -11,13 +11,13 @@ flush();
 <div class="slidenav" style="background: url(images/SlideNav/UltimateAscent.svg)"> 
 <div class="slidenavinfo">
 </br>
-<h1>Nationals 2013</h1>
+<h1>2013 Season</h1>
 </br>
 <h2>This past years game: Ultimate Ascent</h2>
 </br>
-<p>Great job at Nationals Team 3926! For anyone that is interested, pictures are available <a href="team3926.org/Media>here</a></p>
+<p>Congratulations to Team 3926 on making it to Nationals in Saint Louis!</p>
 </br>
-<a href="/Competitions">More information about Competition</a>
+<a href="/zenphoto/2013-North-Star-Regional">Photos from Regionals</a> <a href="/zenphoto/Nationals-2013">Photos from Nationals</a>
 </div>
 </div>
 
