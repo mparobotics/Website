@@ -415,6 +415,10 @@ h1 {
 }
 */
 
+#2014 {
+	display: none;
+}
+
 .headerimg {
     position: relative;
 }
@@ -782,4 +786,5 @@ h1 {
     margin: 25px;
     border-radius: 5px;
 }
+
 
