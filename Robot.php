@@ -48,6 +48,23 @@ include('header.php');
         </div>
     </div>
     
+    <div id="2014" style="display: none;">
+        <div class="robotImage" style="background: url(images/Robot/ComingSoon.svg);">
+            <!--<div class="node"></div>-->
+        </div>
+        
+        <div class="robotContent">
+            <div class="contentStatic">
+                <h1>Unknown</h1>
+                <h2>Classified</h2>
+                <p id="2014content">Classified</p>
+            </div>
+            
+            <div class="contentStub">
+            </div>
+        </div>
+    </div>
+    
 </div>
 <?php 
 $footerstuff = NULL;
