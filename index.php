@@ -11,13 +11,14 @@ flush();
 <div class="slidenav" style="background: url(images/SlideNav/UltimateAscent.svg)"> 
 <div class="slidenavinfo">
 </br>
-<h1>2013 Season</h1>
+<h1>Summer 2013</h1>
 </br>
-<h2>This past years game: Ultimate Ascent</h2>
+<h2>Woodbury Days</h2>
 </br>
-<p>Congratulations to Team 3926 on making it to Nationals in Saint Louis!</p>
 </br>
-<a href="/zenphoto/2013-North-Star-Regional">Photos from Regionals</a> <a href="/zenphoto/Nationals-2013">Photos from Nationals</a>
+<p>Come join us August 23-25th at Woodbury Days in Ojibway Park for tons of Robotic fun!</p>
+<p align="right"><a href="https://www.google.com/maps?q=Ojibway+park&sll=44.9638216,-93.04463450000002&sspn=0.16228375218624327,0.43821082005258527&t=h&dg=opt&hq=Ojibway+park&z=18">Map to Woodbury days</a>
+</br>
 </div>
 </div>
 
