@@ -58,6 +58,11 @@ flush();
         <img src="images/MPAror/arrow.svg" alt="Arrow" class="metroarrow" />
     </a>
 
+	<a href="Careers" class="metroitem" style="background-image:url('#');">
+		<p class="metrodesciption">Careers in Robotics</p>
+		<img src="#" alt="Arrow" class="metroarrow" />
+	</a>
+	
 </div>
 
 </div>
