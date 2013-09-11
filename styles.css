@@ -714,10 +714,32 @@ h1 {
     background-size: 100%;
 }
 
+.metroitemlong {
+	float: left;
+	width: 375px;
+	height: 50px;
+	margin: 12px;
+    box-shadow: 0px 2px 5px gray;
+    border-radius: 5px;
+    background-size: 100%;
+}
+
 .metroarrow {
 	float: right;
 	margin-top: 0px;
 	margin-right: 6px;
+}
+
+.metroarrowsmall {
+	float: right;
+	margin-top: 8px;
+	margin-right: -118px;
+}
+
+.metrotext {
+	color: white;
+	font-size: 23px;
+	padding-left: 40px;
 }
 
 .metrodescription {
@@ -793,6 +815,16 @@ h1 {
 	height: 320px;
 	margin: 12px;
     box-shadow: 0px 2px 5px gray;
+    border-radius: 5px;
+    background-size: 100%;
+}
+
+.graybox {
+	float: left;
+	width: 100%;
+	height: 270px;
+	margin: 12px;
+    box-shadow: 0px 8px 9px gray;
     border-radius: 5px;
     background-size: 100%;
 }
