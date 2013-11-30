@@ -13,16 +13,10 @@ preg_match("/Trident/",$browser, $result);
 if ($result) {
 echo '<div style="width: 100%; height: 50px; margin-top: 50px; background: red;">Sorry! Currently we are unable to support your browser bucause it does not follow web standards. Please use a browser like <a href="http://google.com/Chrome" style="color: white;">Google Chrome</a> to fix this problem and enjoy the full web.</div>';
 } else {
-echo '<iframe src="https://docs.google.com/spreadsheet/ccc?key=0At6btS17d6VHdFlYQUtfeHY1bHRTYTB4M1N6dDhadXc#gid=0" style="width: 100%; border: 0px; height: 800px; margin-top: -5px;"></iframe>';
+echo '<iframe src="https://docs.google.com/spreadsheet/pub?key=0AnTeiXDHfrdtdFFUdi1LNHdPMVEyRkY5Und2RWtKV3c&single=true&gid=0&output=html" style="width: 100%; border: 0px; height: 354px; margin-top: -5px;"></iframe>';
 }
 ?>
-<br />
-<br />
-<br />
-<br /><br /><br />
-<br /><br /><br /><br /><br /><br /><br />
 </div>
-
 
 <?php 
 $footerstuff = NULL;

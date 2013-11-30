@@ -15,8 +15,8 @@ flush();
 </br>
 <h2>Kick Off</h2>
 </br>
-</br>
 <p>Kick off is rapidly approaching! January 4th the 2014 game will be released!</p>
+<p>Please take a moment to look at our Wish List</p>
 </br>
 </div>
 </div>

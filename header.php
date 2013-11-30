@@ -48,6 +48,7 @@ if (isset($desc)) {
 <a href="/wordpress" class="newnavitem">News</a>
 <a href="/Media" class="newnavitem">Media</a>
 <!--<a href="/Wiki" class="newnavitem">Wiki</a>-->
+<a href="/WishList" class="newnavitem">Wish List</a>
 <a href="mailto: robotics@moundsparkacademy.org?Subject=Website%20Contact" class="newnavitem">Contact Us</a>
 <a href="/Search" class="newnavitem" style="border-right: 0px;">Search</a>
 </div>
