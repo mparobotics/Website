@@ -32,7 +32,7 @@ include('header.php');
     </div>
     
     <div id="2013" style="display: none;">
-        <div class="robotImage" style="background: url(images/Robot/ComingSoon.svg);">
+        <div class="robotImage" style= width="200" height="200" alt="2013 robot">
             <!--<div class="node"></div>-->
         </div>
         

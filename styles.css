@@ -111,7 +111,8 @@ h1 {
 #nav {
 	height: 125px;
 	width: 100%;
-	background: url('http://error3130.org/zenphoto/albums/2011-Nationals/RoboticsNationals-41-.jpg');
+	background: url('http://error3130.org/zenphoto/albums/201
+1-Nationals/RoboticsNationals-41-.jpg');
 }
 */
 
@@ -827,4 +828,8 @@ h1 {
     box-shadow: 0px 8px 9px gray;
     border-radius: 5px;
     background-size: 100%;
+}
+
+.robotImage {
+    background-image:url('images/Robot/2013.JPG');
 }
