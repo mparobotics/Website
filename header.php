@@ -4,7 +4,7 @@
 <!--
 This site is written and maintained by:
 Brendan Boyle,
-Connor Olson,
+Teja Upadhyaya
 Michael Wilke
 -->
 <head>
@@ -22,7 +22,7 @@ if (isset($desc)) {
 
 
 <link rel="stylesheet" type="text/css" href="/styles.css" />
-<link rel="stylesheet" type="text/css" href="/mobilestyles.css" />
+<link rel="stylesheet" type="text/css" href="/css/mobilestyles.css" />
 
 <!--<script src="js/navScroll.js" type="text/javascript"></script>-->
 
