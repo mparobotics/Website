@@ -13,10 +13,10 @@ flush();
 </br>
 <h1>FRC 2014</h1>
 </br>
-<h2>Kick Off</h2>
+<h2>Aerial Assist</h2>
 </br>
-<p>Kick off is rapidly approaching! January 4th the 2014 game will be released!</p>
-<p>Please take a moment to look at our Wish List</p>
+<br/>
+<p>This years game is Aerial Assist! <a href="http://team3926.org/Competitions">Click me to watch the video</a></p>
 </br>
 </div>
 </div>
