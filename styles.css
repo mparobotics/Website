@@ -646,8 +646,8 @@ h1 {
 }
 
 .slidenav {
-	/*background: url('images/Articles/Temp.png');*/
-	background: url('images/SlideNav/UltimateAscent.svg');
+	background: url('images/SlideNav/AerialAssist.svg');
+    background-color: #FFFFFF;
 	height: 330px;
 	margin: -25px;
 }

@@ -6,18 +6,6 @@ include('header.php');
 
 <div id="content">
     <div class="metronav" style="height: 500px;">
-
-        <a href="http://www.jcpenney.com/dotcom/index.jsp" class="metroitem" style="background: url('images/Sponsors/Metro/jcpenny.svg');">
-            <p class="metrodescription">JCPenney</p>
-        </a>
-        
-        <a href="http://www.nasa.gov" class="metroitem" style="background: url('images/Sponsors/Metro/nasa.svg');">
-            <p class="metrodescription">NASA</p>
-        </a>
-        
-        <a href="http://www.reell.com" class="metroitem" style="background: url('images/Sponsors/Metro/reell.svg');">
-            <p class="metrodescription">Reell</p>
-        </a>
         
         <a href="http://www.aetrium.com/" class="metroitem" style="background: url('images/Sponsors/Metro/aetrium.png');">
             <p class="metrodescription">Aetrium</p>

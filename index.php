@@ -8,7 +8,7 @@ flush();
 
 <div id="content" class="navDisabled">
 
-<div class="slidenav" style="background: url(images/SlideNav/AerialAssist.png)"> 
+<div class="slidenav"> 
 <div class="slidenavinfo">
 </br>
 <h1>FRC 2014</h1>
