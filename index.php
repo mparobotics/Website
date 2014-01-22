@@ -14,9 +14,7 @@ flush();
 <h1>FRC 2014</h1>
 </br>
 <h2>Aerial Assist</h2>
-</br>
-<br/>
-<p>This years game is Aerial Assist! <a href="http://team3926.org/Competitions">Click me to watch the video</a></p>
+<p>In Aerial Assist, points are scored by getting yoga balls in to either a high goal (10 points) or a low goal (1 point). Bonus points can be earned through either assisting others on your alliance, and performing certain functions in autonomous.<a href="http://team3926.org/Competitions">Click me to watch the video</a></p>
 </br>
 </div>
 </div>

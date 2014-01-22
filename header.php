@@ -45,7 +45,7 @@ if (isset($desc)) {
 <a href="/Team" class="newnavitem">Team 3926</a>
 <a href="/Robot" class="newnavitem">The Robot</a>
 <a href="/Sponsors" class="newnavitem">Our Sponsors</a>
-<a href="/wordpress" class="newnavitem">News</a>
+<a href="http://blogs.dbztech.com/robotics/" class="newnavitem">News</a>
 <a href="/Media" class="newnavitem">Media</a>
 <!--<a href="/Wiki" class="newnavitem">Wiki</a>-->
 <a href="/WishList" class="newnavitem">Wish List</a>
