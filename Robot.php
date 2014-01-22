@@ -32,15 +32,17 @@ include('header.php');
     </div>
     
     <div id="2013" style="display: none;">
-        <div class="robotImage" style= width="100" height="100" alt="2013 robot">
+        <div class="robotImage" style= width="50px" height="50px" alt="2013 robot">
             <!--<div class="node"></div>-->
         </div>
         
         <div class="robotContent">
             <div class="contentStatic">
                 <h1>Ultimate Ascent</h1>
-                <h2>Classified</h2>
-                <p id="2013content">Classified</p>
+                <h5> <a href="http://www.youtube.com/watch?v=itHNW2OFr4Y"> Here is a link to the game animation</a> </h5> 
+                <p id="2013content">The 2013 FRC game was Ultimate Ascent. In this game, robots can either climb a pyramid or shoot frisbees into goals by detecting reflective tape around the edges of each goal. Our robot was intended to solely climb. It would do so by starting inside the pyramid and releasing the weight out in front of the bumpers after the match started, as all parts of the robot must fit inside the frame perimeter at the beginning of the match. Once the weight was deployed, two motors would lift the arm up, and the hook would spring out and grab onto the bar. Then, the motors would go the other direction, thus raising the robot. The weight kept the robot at the proper angle so after the stationary hooks balanced the robot on the bar below, this would repeat three times until the robot would be at the top of the pyramid. 
+One thing that is unique about this robot is that there is no drive train, meaning there are no wheels for the robot to move horizontally. This is possible because one requirement of the game is for all the robots to start the match touching the pyramid, so we had to start where we wanted to be horizontally. Through this process, we have learned a lot about the importance of prototyping, and making solely what needed to be made. We started out with a drive train, but we took it out when it presented a problem with weight distribution in getting the robot at the proper angle to reach to the second and third bars of the pyramid. 
+</p>
             </div>
             
             <div class="contentStub">
