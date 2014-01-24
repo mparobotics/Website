@@ -22,8 +22,8 @@ include('header.php');
         <div class="robotContent">
             <div class="contentStatic">
                 <h1>Rebound Rumble</h1>
-                <h2>Coming Soon!</h2>
-                <p id="2012content">Coming Soon!</p>
+                <h5><a href="https://www.youtube.com/watch?v=nOXsdhZZSdM"> Here is a link to the game animation</a></h5>
+                <p id="2012content">The 2012 FRC game was Rebound Rumble. In this game, robots can either balance on a ramp or shoot basketballs into hoops by detecting reflective tape around the edges of each goal. Our robot was intended to solely shoot. It would do so by driving over a ball, compressing it, sucking it up a conveyer belt, and ejecting the ball when it reaches the wheels on our shooter which move in opposite directions. We did not have a mechanism to push the ramp down, and the bump was too high to roll over, which limited our mobility significantly. However, we learned the importance of having an alliance when other members of our alliance helped us get over the ramp. Through this process we learned a lot about the importance of team work, time management and many other things as it was our rookie year. </p>
             </div>
             
             <div class="contentStub">
