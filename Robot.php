@@ -12,7 +12,7 @@ include('header.php');
     </div>
     
     <div id="2012">
-        <div class="robotImage" style="background: url(images/Robot/ComingSoon.svg);">
+        <div class="robotImage" style="background: url(images/Robot/2012.jpg);">
             <!--
             <div class="node" onclick="document.getElementById('2012content').innerHTML = 'Slide 1';"></div>
             <div class="node" onclick="document.getElementById('2012content').innerHTML = 'Slide 2';"></div>
