@@ -8,7 +8,7 @@ include('header.php');
 
     <div class="selectbar">
         <p>Select a year:</p>
-        <p><a href="#" onClick="document.getElementById('2013').style.display = 'none'; document.getElementById('2012').style.display = 'block';">2012</a> | <a href="#" onClick="document.getElementById('2012').style.display = 'none'; document.getElementById('2013').style.display = 'block';">2013</a></p>
+        <p><a href="#" onClick="document.getElementById('2013').style.display = 'none'; document.getElementById('2012').style.display = 'block';">2012</a> | <a href="#" onClick="document.getElementById('2012').style.display = 'none'; document.getElementById('2013').style.display = 'block';">2013</a> | <a href="#" onClick="document.getElementById('2014').style.display = 'none'; document.getElementById('2014').style.display = 'block';">2014</a></p>
     </div>
     
     <div id="2012">
@@ -49,6 +49,33 @@ One thing that is unique about this robot is that there is no drive train, meani
             </div>
         </div>
     </div>
+    
+    
+    
+    
+    
+    
+     <div id="2014" style="display: none;">
+        <div class="robotImage" style= width="50px" height="50px" alt="2013 robot">
+            <!--<div class="node"></div>-->
+        </div>
+        
+        <div class="robotContent">
+            <div class="contentStatic">
+                <h1>Aerial Assist</h1>
+                <h5> <a href="#"> Here is a link to the game animation</a> </h5> 
+                <p id="2014content"><b>Coming soon!</b></p>
+            </div>
+            
+            <div class="contentStub">
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    
+    
     
     <div id="2014" style="display: none;">
         <div class="robotImage" style="background: url(images/Robot/ComingSoon.svg);">
