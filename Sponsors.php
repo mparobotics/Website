@@ -31,6 +31,13 @@ include('header.php');
             <p class="metrodescription">You?</p>
         </a>
     
+        
+        <div id="otherSponsors">
+            <h2>Special Thanks To:</h2>
+            <p>Intertech Foundation</p>    
+        
+        </div> 
+    
     </div>
 </div>
 
