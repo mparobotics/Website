@@ -33,8 +33,17 @@ include('header.php');
     
         
         <div id="otherSponsors">
-            <h2>Special Thanks To:</h2>
-            <p>Intertech Foundation</p>    
+            <h1>Special Thanks To:</h1>
+            <p>Intertech Foundation</p>  
+            <p>Jacaobs/Sandercott Family</p>
+            <p>Eaton Crop</p>
+            <p>Wright/Danaher family</p>
+            <p>anonymos donors have given a total of $1000.00</p>
+            <p> Lady Slipper Foundation</p>
+            <P> Kluge Rothmanner group</P>
+            <P> Merrill Lynch </P>
+            <p> Galbavy Family</p>
+            
         
         </div> 
     
