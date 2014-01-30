@@ -8,7 +8,7 @@ include('header.php');
 
     <div class="selectbar">
         <p>Select a year:</p>
-        <p><a href="#" onClick="document.getElementById('2013').style.display = 'none'; document.getElementById('2012').style.display = 'block';">2012</a> | <a href="#" onClick="document.getElementById('2012').style.display = 'none'; document.getElementById('2013').style.display = 'block';">2013</a> | <a href="#" onClick="document.getElementById('2014').style.display = 'none'; document.getElementById('2014').style.display = 'block';">2014</a></p>
+        <p><a href="#" onClick="document.getElementById('2013').style.display = 'none'; document.getElementById('2012').style.display = 'block';">2012</a> | <a href="#" onClick="document.getElementById('2012').style.display = 'none'; document.getElementById('2013').style.display = 'block';">2013</a> | <a href="#" onClick=".getElementById('2014').style.display = 'none'; document.getElementById('2014').style.display = 'block';">2014</a></p>
     </div>
     
     <div id="2012">
@@ -71,7 +71,7 @@ One thing that is unique about this robot is that there is no drive train, meani
             </div>
         </div>
     </div>
-    <!-- -->
+    <!-- --> 
     
     
     
