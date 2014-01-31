@@ -5,7 +5,7 @@ include('header.php');
 ?>
 
 <div id="content">
-    <div class="metronav" style="height: 500px;">
+    <div class="metronav" style="height: 685px;">
         
         <a href="http://www.aetrium.com/" class="metroitem" style="background: url('images/Sponsors/Metro/aetrium.png');">
             <p class="metrodescription">Aetrium</p>
@@ -34,11 +34,11 @@ include('header.php');
         
         <div id="otherSponsors">
             <h1>Special Thanks To:</h1>
-            <p>Intertech Foundation</p>  
-            <p>Jacaobs/Sandercott Family</p>
-            <p>Eaton Crop</p>
-            <p>Wright/Danaher family</p>
-            <p>anonymos donors have given a total of $1000.00</p>
+            <p> Intertech Foundation</p>  
+            <p> Jacaobs/Sandercott Family</p>
+            <p> Eaton Crop</p>
+            <p> Wright/Danaher family</p>
+            <p> Anonymos donors have given a total of $1000.00</p>
             <p> Lady Slipper Foundation</p>
             <P> Kluge Rothmanner group</P>
             <P> Merrill Lynch </P>
