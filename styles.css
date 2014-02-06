@@ -836,5 +836,10 @@ h1 {
 }
 
 #otherSponsors {
-    text-align:center;
+    text-align:left;
+}
+
+#otherSponsors p {
+    text-align:left;
+    margin-left:350px;
 }

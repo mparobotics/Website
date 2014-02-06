@@ -27,6 +27,10 @@ include('header.php');
             <p class="metrodescription">Home Depot</p>
         </a>
         
+        <a href="#" class="metroitem" style="background: url('images/Sponsors/Metro/merrillLynch.svg');">
+            <p class="metrodescription">Merrill Lynch</p>
+        </a>
+        
         <a href="mailto:robotics@moundsparkacademy.org" class="metroitem" style="background: url('images/Sponsors/Metro/you.svg');">
             <p class="metrodescription">You?</p>
         </a>
@@ -38,10 +42,11 @@ include('header.php');
             <p> Jacaobs/Sandercott Family</p>
             <p> Eaton Crop</p>
             <p> Wright/Danaher family</p>
+            
+            
             <p> Anonymos donors have given a total of $1000.00</p>
             <p> Lady Slipper Foundation</p>
             <P> Kluge Rothmanner group</P>
-            <P> Merrill Lynch </P>
             <p> Galbavy Family</p>
             
         
