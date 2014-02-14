@@ -27,7 +27,7 @@ include('header.php');
             <p class="metrodescription">Home Depot</p>
         </a>
         
-        <a href="#" class="metroitem" style="background: url('images/Sponsors/Metro/merrillLynch.svg');">
+        <a href="#" class="metroitem" style="background: url('images/Sponsors/Metro/MerrillLynch.svg');">
             <p class="metrodescription">Merrill Lynch</p>
         </a>
         
